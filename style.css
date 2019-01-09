@@ -1,0 +1,75 @@
+.font1 {
+    font-family: dolly-new, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+}
+
+.font2 {
+    font-family: mr-eaves-modern, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+}
+
+.article {
+    height: 500px;
+    width: 800px;
+}
+
+.center {
+    text-align: center;
+}
+
+.button-normal {
+    background-color: #00B5BA;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 15pt;
+}
+
+.button-hover {
+    background-color: #00B5BA;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 15pt;
+}
+.button-hover:hover {
+    background-color: #235899;
+}
+
+.button-pressed {
+    background-color: #00B5BA;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 15pt;
+}
+button:active {
+    background-color: #235899;
+}
+
+.button-loading {
+    background-color: #00B5BA;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 15pt;
+}
+
+.button-disable {
+    background-color:darkgrey;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    font-family: mr-eaves-modern, sans-serif;
+    font-size: 15pt;
+}
